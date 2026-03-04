@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tecnologías que uso / aprendo
+## 🛠️ Tecnologías que uso / estoy aprendiendo
 
 <p align="left">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
