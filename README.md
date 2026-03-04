@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Emiliobeers&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
 </p>
 
-## 📊 Estadísticas
-
-![Emilio's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emiliobeers&show_icons=true&theme=tokyonight)
 
 ---
 
