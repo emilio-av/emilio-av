@@ -72,9 +72,9 @@
 
 - 📧 Email: **emilio.anaya.verdugo@gmail.com**
 - 💬 Discord: **EmilioBeers**
-- 🌐 LinkedIn: **https://www.linkedin.com/in/emilio-anaya-verdugo-550728290**
+- 🌐 LinkedIn: **{(https://www.linkedin.com/in/emilio-anaya-verdugo-191b4540a/)}**
 
----
+---}
 
 <p align="center">
   <b>Gracias por pasarte por mi perfil 🙌</b>
